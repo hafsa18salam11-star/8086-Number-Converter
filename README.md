@@ -4,16 +4,16 @@ The user enters a number, selects a conversion type, and instantly sees the resu
 
 ## Conversion Modes:
 
-1 → Binary (8-bit representation)
-2 → Hexadecimal
-3 → Octal (3-digit)
-0 → Exit
+1 → Binary (8-bit representation).
+2 → Hexadecimal.
+3 → Octal (3-digit).
+0 → Exit.
 
 ## Key Features:
 
-Interactive menu with input validation
-Reusable print_nibble subroutine for Hex conversion
-Bit manipulation using ROL instruction for Binary
-DIV instruction for Octal decomposition
-Option to convert another number or exit
-Written in pure 8086 Assembly using DOS interrupts
+Interactive menu with input validation.
+Reusable print_nibble subroutine for Hex conversion.
+Bit manipulation using ROL instruction for Binary.
+DIV instruction for Octal decomposition.
+Option to convert another number or exit.
+Written in pure 8086 Assembly using DOS interrupts.
